@@ -1,0 +1,2 @@
+# BNet
+Bayesian Network Library
